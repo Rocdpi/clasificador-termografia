@@ -98,3 +98,4 @@ Para garantizar la precisión conceptual y terminológica en la documentación y
 - **ROI (*Region of Interest* / Región de Interés)**: Subconjunto espacial delimitado dentro de una matriz de datos o imagen que concentra la información cromática o térmica relevante para el análisis, excluyendo el fondo o elementos ruidosos.
 - **Clase de Control NA (*Unqualified* / Fuera de Dominio)**: Categoría explícita dentro del esquema de etiquetado supervisado orientada a capturar muestras fuera de protocolo, ruidosas o defectuosas, protegiendo el espacio de representaciones de las clases principales.
 - **NETD (*Noise Equivalent Temperature Difference*)**: Métrica estandarizada de sensibilidad térmica que cuantifica la mínima diferencia de temperatura que un detector infrarrojo puede distinguir por encima del nivel de ruido del sensor.
+---
