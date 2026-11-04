@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/TIR.png" alt="Prototipo de Clasificación Infrarroja" width="100%"/>
-</p>
+![Prototipo de Clasificación Infrarroja](./assets/TIR.png)
 
 # Clasificador de Calidad y Calibración en Imágenes Termográficas Infrarrojas (IRT)
 
