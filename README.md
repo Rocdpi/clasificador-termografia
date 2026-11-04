@@ -1,5 +1,4 @@
 ![Prototipo de Clasificación Infrarroja](./assets/TIR.png)
-
 # Clasificador de Calidad y Calibración en Imágenes Termográficas Infrarrojas (IRT)
 
 Este repositorio contiene un prototipo de visión por computadora desarrollado en Python para evaluar automáticamente la calidad y calibración de capturas termográficas infrarrojas (IRT) mediante Transfer Learning. El sistema implementa una arquitectura agnóstica de hardware para discriminar si un sensor presenta calibración válida, saturación cromática o si la captura se encuentra fuera de dominio.
