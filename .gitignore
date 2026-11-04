@@ -1,0 +1,15 @@
+# Entorno virtual y cachés de Python
+.venv/
+__pycache__/
+*.pyc
+.cache/
+.gradio/
+
+# Archivos pesados y datos locales
+*.pth
+data/
+
+# Archivos del sistema operativo y editores
+Thumbs.db
+.DS_Store
+.vscode/
