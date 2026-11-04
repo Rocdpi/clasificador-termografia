@@ -52,6 +52,7 @@ uv sync
 
 # 2. Ejecutar la interfaz gráfica local en Gradio
 uv run app.py
+```
 ---
 
 ## 🧪 Paso 4: Evaluación, Análisis de Robustez y Estado del Arte extendido
