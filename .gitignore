@@ -1,5 +1,6 @@
 # Entorno virtual y cachés de Python
 .venv/
+.venv-*/
 __pycache__/
 *.pyc
 .cache/
@@ -8,8 +9,9 @@ __pycache__/
 # Archivos pesados y datos locales
 *.pth
 data/
+Thermal Image dataset for object classifi*/
 
 # Archivos del sistema operativo y editores
+.vscode/
 Thumbs.db
 .DS_Store
-.vscode/
