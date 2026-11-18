@@ -6,12 +6,11 @@ __pycache__/
 .cache/
 .gradio/
 
-# Archivos pesados y datos locales
-*.pth
-data/
+# Carpetas externas locales
 Thermal Image dataset for object classifi*/
 
 # Archivos del sistema operativo y editores
 .vscode/
 Thumbs.db
 .DS_Store
+
